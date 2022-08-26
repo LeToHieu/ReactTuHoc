@@ -1,13 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './styles/global.scss';
-import App from './views/App';
+import App from './views/App.js';
 import reportWebVitals from './reportWebVitals';
 
-/*instal
-  --Sass--
-    npm i --save sass
 
+/* 
+*npm i -save sass
+*
+*
+*
+*
+*
 */
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
